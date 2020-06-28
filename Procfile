@@ -1,0 +1,1 @@
+worker: python dict_bot.py
